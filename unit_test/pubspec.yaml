@@ -1,8 +1,8 @@
 name: unit_test
-description: A sample command-line application.
+description: This repository is an example that will be used in the Unit Test Medium article.
 version: 1.0.0
-repository: https://github.com/JotaPe-Tecnologia/medium
-homepage: https://www.jotapetecnologia.com.br/flutter/packages/medium
+repository: https://github.com/JotaPe-Tecnologia/medium/tree/main/unit_test
+homepage: https://www.jotapetecnologia.com.br/flutter/packages/articles/unit-test
 
 environment:
   sdk: ^3.2.6
